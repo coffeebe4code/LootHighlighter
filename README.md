@@ -15,7 +15,7 @@ Even though I am confident this is unintrusive. It could still get you banned th
 
 ## Examples
 
-### "Highlighting".
+### "Highlighting"
 
 First, the beautiful juicy bits. Look at this beautiful high rune. I have not looked into where or how to enable the shiny light ground effect. This may also be in one of the local folders that I would deem safe. Might look into it in the future.
 
@@ -29,7 +29,7 @@ Here is another example. This one I find really shows why this mod is important.
 
 ![monarch](./assets/white-monarch.png)
 
-### "Supressing".
+### "Supressing"
 
 I supress very little. In this meaning of "Supressing": The item is still there, but it is fully white, and usually the text is condensed.
 
