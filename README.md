@@ -21,7 +21,7 @@ First, the beautiful juicy bits. Look at this beautiful high rune. I have not lo
 
 ![jahrune](./assets/jah-rune.png)
 
-Some bases which could be white, etheriel, superior, and/or socketed could be really good. I have added the color red, to the second half of these items. seen below. This does mean, however, that an item which is rare, unique, or magic, will not FULLY be that color. The first half will be blue, yellow, or gold, while the second-half remains red. There are ways which other mods get around this. But it does not follow the purpose of this "mod" which is to be minimally invasive, and as least pervasive to being online.
+Some bases which could be white, ethereal, superior, and/or socketed could be really good. I have added the color red, to the second half of these items. seen below. This does mean, however, that an item which is rare, unique, or magic, will not FULLY be that color. The first half will be blue, yellow, or gold, while the second-half remains red. There are ways which other mods get around this. But it does not follow the purpose of this "mod" which is to be minimally invasive, and as least pervasive to being online.
 
 ![mancatcher](./assets/grey-mancatcher.png)
 
