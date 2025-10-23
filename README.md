@@ -49,7 +49,42 @@ Read the [Disclaimer](#disclaimer).
 
 You must also be at least a tiny bit tech savvy. I wont handhold how to unzip files, or copy folders from one place to another.
 
+For those who are uninitiated, the process being outlined below is how you "create a mod". This is how all the other tools do it, but they do it for you. You are doing this manually.
+
 1. Download this repository as a zip. Alternately, you could download the files individually, but they must end up in the correct relative location.
 
-2. I am going to be demonstrating only the download as a zip method for those who are the least tech savvy.
+2. I am going to be demonstrating the download as a zip method for those who are the least tech savvy.
 
+3. On this repository you will see a dropdown for downloading as a zip. See below.
+
+![zipit](./assets/zipit.png)
+
+4. Go to your downloads folder, and find the zip. You don't even need to extract the contents. Click in until you see the "online" folder. Image below.
+
+![copy](./assets/copy.png)
+
+5. Copy that folder.
+
+6. Find the installation path for D2R. For me it is below. If there isn't a mods folder, create it now.
+
+![mods](./assets/mods-folder.png)
+
+7. Inside that mods folder. Paste the folder mentioned in step 4. See below. Notice I have an offline version myself, you wouldn't and thats fine.
+
+![online](./assets/online.png)
+
+### Finally, 
+we need to tell the blizzard launcher where to find those text files.
+
+8. So open the launcher, and click the Launch Settings Cog, followed by Game Settings. See below.
+
+![cog](./assets/cog.png)
+
+9. Ensure the checkbox is checked seen below. and add the launch commands to load the txt file versions of our "mod".
+
+![cmd](./assets/cmd.png)
+
+### Closing
+
+That should be it. If there are any issues don't hesitate to reach out to me on github here.
+You should be able to load the game, and take a look at a few items and runes and see if they are displaying differently.
